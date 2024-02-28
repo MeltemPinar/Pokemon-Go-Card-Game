@@ -1,0 +1,17 @@
+.Pokedex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.Pokedex-winner {
+  color: #e91e63;
+}
+.Pokedex-lose {
+  color: #e91e63;
+}
